@@ -28,10 +28,3 @@ En cuanto a mis aspiraciones a mediano plazo, me gustaría graduarme, conseguir 
 
 <br>
 
-<h2 align="center">Technologies & Skills 🔥</h1>
-<h4>Programming Languages</h4>
-<p>
- <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</p>
